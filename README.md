@@ -21,11 +21,8 @@ seaborn.
 
 Model
 The model is a simple feedforward neural network with the following layers:
-
 Input Layer: Takes the input features
-
 Hidden Layers: Two hidden layers with ReLU activation
-
 Output Layer: Single neuron with a sigmoid activation function to predict a binary output (0 or 1)
 
 The model is compiled using binary cross-entropy loss and Adam optimizer.

@@ -12,12 +12,12 @@ intallment ammount
 other features
 
 In this project libraries used are:
-tensorflow
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
+tensorflow,
+pandas,
+numpy,
+scikit-learn,
+matplotlib,
+seaborn.
 
 Model
 The model is a simple feedforward neural network with the following layers:
